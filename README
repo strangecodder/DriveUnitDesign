@@ -1,0 +1,10 @@
+This is program for calculation of belt conveyor drive unit. 
+Our program includes this calculation:
+-kinematic and power design of the actuator;
+-gearbox calculation and selection;
+-transmission calculation;
+-coupling selection.
+We are doing this project as part of coursework on the subject of industrial product design technologies.
+Authors of project:
+Sukhov Artyom KVBO-04-21 (https://github.com/strangecodder)
+Chernenko Valery KVBO-04-21 (https://github.com/mrskeletone)
